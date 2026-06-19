@@ -1,0 +1,142 @@
+[
+  {
+    "question": "两种是一样的吗",
+    "answer": "一样的呢就是数量不同哦亲",
+    "category": "产品咨询",
+    "conversation_history": [],
+    "full_conversation": [
+      "顾客：两种是一样的吗",
+      "客服：一样的呢就是数量不同哦亲"
+    ]
+  },
+  {
+    "question": "评价说小是不是还有大点的呢",
+    "answer": "对的亲这款1020的这款1520的",
+    "category": "其他",
+    "conversation_history": [],
+    "full_conversation": [
+      "顾客：评价说小是不是还有大点的呢",
+      "客服：对的亲这款1020的这款1520的"
+    ]
+  },
+  {
+    "question": "加在一起买不用邮费吧",
+    "answer": "一包250g495是的呢",
+    "category": "物流配送",
+    "conversation_history": [],
+    "full_conversation": [
+      "顾客：加在一起买不用邮费吧",
+      "客服：一包250g495是的呢"
+    ]
+  },
+  {
+    "question": "你看看",
+    "answer": "恩恩",
+    "category": "其他",
+    "conversation_history": [],
+    "full_conversation": [
+      "顾客：你看看",
+      "客服：恩恩"
+    ]
+  },
+  {
+    "question": "买6份可便宜点啊",
+    "answer": "价格最低了哦",
+    "category": "订单支付",
+    "conversation_history": [],
+    "full_conversation": [
+      "顾客：买6份可便宜点啊",
+      "客服：价格最低了哦"
+    ]
+  },
+  {
+    "question": "退货地址给我",
+    "answer": "您好",
+    "category": "退换货",
+    "conversation_history": [],
+    "full_conversation": [
+      "顾客：退货地址给我",
+      "客服：您好"
+    ]
+  },
+  {
+    "question": "啥意思",
+    "answer": "708已经是特价了呢",
+    "category": "其他",
+    "conversation_history": [],
+    "full_conversation": [
+      "顾客：啥意思",
+      "客服：708已经是特价了呢"
+    ]
+  },
+  {
+    "question": "现在购买是399吗",
+    "answer": "预热中买不了哦",
+    "category": "其他",
+    "conversation_history": [],
+    "full_conversation": [
+      "顾客：现在购买是399吗",
+      "客服：预热中买不了哦"
+    ]
+  },
+  {
+    "question": "我要2袋奶油的",
+    "answer": "好的亲亲",
+    "category": "其他",
+    "conversation_history": [],
+    "full_conversation": [
+      "顾客：我要2袋奶油的",
+      "客服：好的亲亲"
+    ]
+  },
+  {
+    "question": "我拍了那个套装洗涤套装",
+    "answer": "袜子都是不包邮的哦",
+    "category": "订单支付",
+    "conversation_history": [],
+    "full_conversation": [
+      "顾客：我拍了那个套装洗涤套装",
+      "客服：袜子都是不包邮的哦"
+    ]
+  },
+  {
+    "question": "什么时候能收到武汉着急用",
+    "answer": "拍下后72小时内发货哦具体快递时间现在不能保证",
+    "category": "物流配送",
+    "conversation_history": [],
+    "full_conversation": [
+      "顾客：什么时候能收到武汉着急用",
+      "客服：拍下后72小时内发货哦具体快递时间现在不能保证"
+    ]
+  },
+  {
+    "question": "但是物流没有显示",
+    "answer": "邮政还没有来收走晚点您在看看",
+    "category": "物流配送",
+    "conversation_history": [],
+    "full_conversation": [
+      "顾客：但是物流没有显示",
+      "客服：邮政还没有来收走晚点您在看看"
+    ]
+  },
+  {
+    "question": "订单显示有5元的运费",
+    "answer": "麻烦您提交一下帮您去一下哦",
+    "category": "物流配送",
+    "conversation_history": [],
+    "full_conversation": [
+      "顾客：订单显示有5元的运费",
+      "客服：麻烦您提交一下帮您去一下哦"
+    ]
+  },
+  {
+    "question": "那发货了没有这都好长时间了我买的别的",
+    "answer": "已经发货了哦亲",
+    "category": "物流配送",
+    "conversation_history": [],
+    "full_conversation": [
+      "顾客：那发货了没有这都好长时间了我买的别的",
+      "客服：已经发货了哦亲"
+    ]
+  }
+]
