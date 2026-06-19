@@ -1,0 +1,29 @@
+# 环境变量（密钥）
+.env
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# IDE
+.vscode/
+
+# Vite
+.vite/
+
+# Frontend dependencies
+operation_ui/node_modules/
+
+# Logs
+*.log
+
+# Claude Code 本地配置
+.claude/settings.local.json
+.claude/worktrees/
